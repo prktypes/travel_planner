@@ -4,7 +4,7 @@ Welcome to the **AI Travel Planner**, a modular multi-agent system built with St
 
 ## Overview
 
-The AI Travel Planner uses a LangGraph workflow to manage a set of agents that collaboratively process user inputs (e.g., destination, month, duration) to produce a detailed itinerary, activity suggestions, weather forecasts, packing lists, food/culture recommendations, useful links, and a chat interface. The system integrates with Ollama (for the `llama3.2` model) and the Google Serper API for web searches.
+The AI Travel Planner uses a LangGraph workflow to manage a set of agents that collaboratively process user inputs (e.g., destination, month, duration) to produce a detailed itinerary, activity suggestions, weather forecasts, packing lists, food/culture recommendations, useful links, and a chat interface. The system integrates with Ollama (for the `mistral` model) and the Google Serper API for web searches.
 
 ## Features
 - Generate a detailed travel itinerary with daily plans, dining options, and downtime.
@@ -13,6 +13,12 @@ The AI Travel Planner uses a LangGraph workflow to manage a set of agents that c
 - Provide weather forecasts, packing lists, and food/culture recommendations.
 - Offer a conversational chat to answer itinerary-related questions.
 - Export the itinerary as a PDF.
+
+## Overview
+<img width="1078" height="966" alt="travel1" src="https://github.com/user-attachments/assets/01cdfcee-b750-4982-8d5b-20851a9e33ad" />
+<img width="1078" height="966" alt="travel1" src="https://github.com/user-attachments/assets/063f6587-1603-475f-9701-0ba390a5c1ab" />
+<img width="1082" height="960" alt="travel3" src="https://github.com/user-attachments/assets/19d13a73-aff9-4a1c-a9b8-55f1f51370e3" />
+
 
 ## Directory Structure
 

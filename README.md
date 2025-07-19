@@ -1,4 +1,4 @@
-##TravelPlanner using Multi-AI-Agents and LangGraph.
+## TravelPlanner using Multi-AI-Agents and LangGraph.
 
 Welcome to the **AI Travel Planner**, a modular multi-agent system built with Streamlit, LangGraph, and Ollama. This application leverages multiple AI agents to generate personalized travel itineraries and provide additional travel-related insights based on user preferences. The system is designed for modularity, with agents split into individual scripts for maintainability and scalability.
 

@@ -16,7 +16,7 @@ The AI Travel Planner uses a LangGraph workflow to manage a set of agents that c
 
 ## Overview
 <img width="1078" height="966" alt="travel1" src="https://github.com/user-attachments/assets/01cdfcee-b750-4982-8d5b-20851a9e33ad" />
-<img width="1078" height="966" alt="travel1" src="https://github.com/user-attachments/assets/063f6587-1603-475f-9701-0ba390a5c1ab" />
+<img width="1091" height="978" alt="travel2" src="https://github.com/user-attachments/assets/b09b3102-248d-4335-ad8a-64e15e16c62a" />
 <img width="1082" height="960" alt="travel3" src="https://github.com/user-attachments/assets/19d13a73-aff9-4a1c-a9b8-55f1f51370e3" />
 
 
